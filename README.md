@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on [CassiMon](https://cassi.gg) && [Github-Skin](https://github.com/Fredray-21/Github-Skin)
+- 🔭 I’m currently working on [CassiMon](https://cassi.gg)
 
 - 🌱 I’m currently learning [REACT](https://reactjs.org/) and [NODEJS](https://nodejs.org/en/)
 
