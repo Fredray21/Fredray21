@@ -20,6 +20,9 @@ Passionate about building side projects like **[CassiMon](https://cassi.gg)** an
 
 ---
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fredray21&theme=material-palenight&hide_border=true&layout=compact&days=55">
+
+--- 
 ### PGP
 **Fingerprint:** `E2C2D8F5AEA0470699EB44A41DCEB3CBD66E7517`
 
