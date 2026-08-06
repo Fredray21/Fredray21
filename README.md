@@ -1,22 +1,22 @@
 # Frédéric Dabadie (Fredray21)
-*Fullstack Developer*
 
 Contact: [frederic-dabadie.fr](https://frederic-dabadie.fr)
 
 ---
 
 ### About
-- Working on **[CassiMon](https://cassi.gg)** as a side project.
-- Deepening my knowledge in web development.
+Developer working professionally with **C# (.NET)** and **React**.  
+Passionate about building side projects like **[CassiMon](https://cassi.gg)** and **[my-tvtime](https://github.com/Fredray21/my-tvtime)**, and constantly exploring new technologies.
 
-### Stack & Tools
-- **Frontend:** React, TypeScript, HTML5, CSS3, SCSS, Sass, Bootstrap
-- **Backend & DB:** Node.js, Express, PHP, PostgreSQL, MySQL, MongoDB
-- **Toolbox:** VS Code, Git, GitHub, Azure DevOps, Jira, Docker, Linux, Figma
+### Tech Stack
 
-### Languages Explored
-*Intermediate level depending on context*
-- Golang, Rust, C++, C#, Java
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | TypeScript, React, SCSS, HTML5, CSS3, Bootstrap |
+| **Backend** | Node.js, Express, C# (.NET), PHP, Go |
+| **Databases** | PostgreSQL, MySQL, Google Cloud Spanner, MongoDB |
+| **Tools & DevOps** | Git, Docker, Linux, Azure DevOps, Jira, VS Code, Figma |
+| **Exploring** | Rust, Java |
 
 ---
 
